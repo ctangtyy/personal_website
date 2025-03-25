@@ -29,7 +29,7 @@ format: html
     <i class="bi bi-envelope"></i> Email
   </a>
 
-  <a href="files/CaitlinTang_Resume.pdf" class="btn btn-outline-secondary" 
+  <a href="files/TANG_CAITLIN_RESUME_SP25.pdf" class="btn btn-outline-secondary" 
      style="font-size: 14px; padding: 5px 10px; min-width: 100px; color: white; border: 1px solid white;">
     <i class="bi bi-file-earmark-text"></i> Resume
   </a>
