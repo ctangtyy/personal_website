@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Computational and Systems Biology (September 2021 - June 2025)"
+    "text": "B.S. Computational and Systems Biology (September 2021 - June 2025)"
   },
   {
     "objectID": "index.html",
@@ -39,7 +39,7 @@
     "href": "projects.html#academic",
     "title": "Projects",
     "section": "Academic",
-    "text": "Academic\n\nECE C147/C247 Final Project\nFor my final project in ECE C147/247 (Winter 2025) with Professor Jonathan Kao, I worked on implementing a machine learning model for predicting QWERTY typing patterns using surface electromyography (sEMG) signals. The project builds upon the emg2qwerty framework developed by Meta, which provides a large dataset of sEMG recordings while typing on a QWERTY keyboard. Working from a baseline model we explored various implementations including CNN+GRU and CNN+BiLSTM Hybrid models alongside various preprocessing techniques and transformers.\nRead full project document here\n\n\nCOMAP Competition\nCOMAP, the Consortium for Mathematics and Its Applications, is an award-winning non-profit organization dedicated to enhancing mathematics education, particularly through the promotion of mathematical modeling. This year, my team and I devised a model for a sustainable tourism industry in Juneau, Alaska by balancing visitor numbers, revenue, and tourism stabilization measures using an agent-node representation with weighted edges. Read full project document here"
+    "text": "Academic\n\nECE C147/C247 Final Project\nFor my final project in ECE C147/247 (Winter 2025) with Professor Jonathan Kao, I worked on implementing a machine learning model for predicting QWERTY typing patterns using surface electromyography (sEMG) signals. The project builds upon the emg2qwerty framework developed by Meta, which provides a large dataset of sEMG recordings while typing on a QWERTY keyboard. Working from a baseline model we explored various implementations including CNN+GRU and CNN+BiLSTM Hybrid models alongside various preprocessing techniques and transformers.\nRead full project document here\n\n\nCOMAP Competition\nCOMAP, the Consortium for Mathematics and Its Applications, is an award-winning non-profit organization dedicated to enhancing mathematics education, particularly through the promotion of mathematical modeling. This year, my team and I devised a model for a sustainable tourism industry in Juneau, Alaska by balancing visitor numbers, revenue, and tourism stabilization measures using an agent-node representation with weighted edges. Read full project document here\n\n\n© 2025 Caitlin Tang. All rights reserved."
   },
   {
     "objectID": "projects.html#research",
@@ -53,14 +53,14 @@
     "href": "about.html#research",
     "title": "About Me",
     "section": "Research",
-    "text": "Research\n\nZhou Lab (March 2024 - June 2025)\nI joined the Zhou Lab in March of 2024 under the guidance of Dr. Jasmine Zhou where I developed and applied machine learning models to analyze patient cell-free methylation and mass spectrometry data, aiming to discover new clinical biomarkers and diagnostic tools for liver disease detection. This involved evaluating non-invasive diagnostic methods on 200 Hepatitis B (HBV) patients, utilizing regression and classification models to analyze patient methylation data. Additionally, I explored predictive models for clinical parameters that are essential for liver disease diagnosis and detection.\n\n\nGuo Lab (August 2022 - March 2024)\nI joined the Guo Lab in August 2022 and initiated a secondary analysis on the biomarker and imaging data of over 5000 patients in the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database under the guidance of Dr. Zhefeng Guo.\nIn parallel with my computational project, I also conducted wet-lab experiments to investigate the relationship of cerebral spinal fluid on Amyloid Beta protein aggregation. Additionally, I led a sequencing team studying mutational effects on protein aggregation with deep mutagenesis & sequencing.\n Laboratory Skills Acquired \n\n\nLiquid Chromatography\n\n\nElectron Paramagnetic Resonance (EPR)\n\n\nChemical and Electro Competent Cell Transformation\n\n\nDNA and Protein Electrophoresis\n\n\nPCR\n\n\nDeep Mutagenesis\n\n\nOxford Nanopore Sequencing\n\n\nProtein Purification\n\n\nMass Spectrometry"
+    "text": "Research\n\nZhou Lab (March 2024 - June 2025)\nI joined the Zhou Lab in March of 2024 under the guidance of Dr. Jasmine Zhou where I developed and applied machine learning models to analyze patient cell-free methylation and mass spectrometry data, aiming to discover new clinical biomarkers and diagnostic tools for liver disease detection. This involved evaluating non-invasive diagnostic methods on 200 Hepatitis B (HBV) patients, utilizing regression and classification models to analyze patient methylation data. Additionally, I explored predictive models for clinical parameters that are essential for liver disease diagnosis and detection.\n\n\nGuo Lab (August 2022 - March 2024)\nI joined the Guo Lab in August 2022 and initiated a secondary analysis on the biomarker and imaging data of over 5000 patients in the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database under the guidance of Dr. Zhefeng Guo.\nIn parallel with my computational project, I also conducted wet-lab experiments to investigate the relationship of cerebral spinal fluid on Amyloid Beta protein aggregation. Additionally, I led a sequencing team studying mutational effects on protein aggregation with deep mutagenesis & sequencing.\n Laboratory Skills Acquired \n\n\nLiquid Chromatography\n\n\nElectron Paramagnetic Resonance (EPR)\n\n\nChemical and Electro Competent Cell Transformation\n\n\nDNA and Protein Electrophoresis\n\n\nPCR\n\n\nDeep Mutagenesis\n\n\nOxford Nanopore Sequencing\n\n\nProtein Purification\n\n\nMass Spectrometry"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About Me",
     "section": "",
-    "text": "Computational and Systems Biology (September 2021 - June 2025)"
+    "text": "B.S. Computational and Systems Biology (September 2021 - June 2025)"
   },
   {
     "objectID": "personal_projects.html",

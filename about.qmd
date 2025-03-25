@@ -35,3 +35,8 @@ In parallel with my computational project, I also conducted wet-lab experiments 
 ## Teaching
 ### Swimming
 During summers, I spend my free time teaching individuals of all ages how to swim. I began my coaching journey as an Assistant Coach at Canyons Aquatics Club designing and leading daily workouts and mentoring swimmers to foster their swimming skills and mindset. Since then, I have continued to teach during my time off and have taught over 50 students ranging from ages 3 to 60, focsuing on individualized instructiona and skill development.
+
+<footer style="background-color: #4169E1; color: white; text-align: center; padding: 20px 0; margin-top: 40px;">
+    <p>&copy; 2025 Caitlin Tang. All rights reserved.</p>
+    </div>
+  </footer>
