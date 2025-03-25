@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Caitlin Tang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - projects.qmd
+      # - personal_projects.qmd
+    right:
+      - icon: github
+        href: https://github.com/ctangtyy
+      - icon: linkedin
+        href: https://www.linkedin.com/in/caitlin-tang-6b973a229/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

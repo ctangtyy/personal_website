@@ -1,0 +1,37 @@
+---
+title: "About Me"
+---
+
+## Education
+### University of California, Los Angeles (UCLA)
+B.S. Computational and Systems Biology (September 2021 - June 2025)
+
+## Research
+### Zhou Lab (March 2024 - June 2025)
+I joined the Zhou Lab in March of 2024 under the guidance of Dr. <a href="https://www.uclahealth.org/departments/pathology/meet-our-faculty/xianghong-jasmine-zhou-phd">Jasmine Zhou</a> 
+ where I developed and applied machine learning models to analyze patient cell-free methylation and mass spectrometry data, aiming to discover new clinical biomarkers and diagnostic tools for liver disease detection. This involved evaluating non-invasive diagnostic methods on 200 Hepatitis B (HBV) patients, utilizing regression and classification models to analyze patient methylation data. Additionally, I explored predictive models for clinical parameters that are essential for liver disease diagnosis and detection. 
+
+
+
+### Guo Lab (August 2022 - March 2024)
+I joined the Guo Lab in August 2022 and initiated a secondary analysis on the biomarker and imaging data of over 5000 patients in the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database under the guidance of Dr.<a href="https://bri.ucla.edu/people/zhefeng-guo/"> Zhefeng Guo</a>.
+
+In parallel with my computational project, I also conducted wet-lab experiments to investigate the relationship of cerebral spinal fluid on Amyloid Beta protein aggregation. Additionally, I led a sequencing team studying mutational effects on protein aggregation with deep mutagenesis & sequencing.
+
+
+<strong> Laboratory Skills Acquired </strong>
+<ul>
+  <li>Liquid Chromatography</li>
+  <li>Electron Paramagnetic Resonance (EPR)</li>
+  <li>Chemical and Electro Competent Cell Transformation</li>
+  <li>DNA and Protein Electrophoresis</li>
+  <li>PCR</li>
+  <li>Deep Mutagenesis</li>
+  <li>Oxford Nanopore Sequencing</li>
+  <li>Protein Purification</li>
+  <li>Mass Spectrometry</li>
+</ul>
+
+## Teaching
+### Swimming
+During summers, I spend my free time teaching individuals of all ages how to swim. I began my coaching journey as an Assistant Coach at Canyons Aquatics Club designing and leading daily workouts and mentoring swimmers to foster their swimming skills and mindset. Since then, I have continued to teach during my time off and have taught over 50 students ranging from ages 3 to 60, focsuing on individualized instructiona and skill development.
