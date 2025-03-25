@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "B.S. Computational and Systems Biology (September 2021 - June 2025)"
+    "text": "Computational and Systems Biology (September 2021 - June 2025)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "\nCaitlin Tang\n",
     "section": "",
-    "text": "Caitlin Tang\nAbout Me"
+    "text": "Caitlin Tang"
   },
   {
     "objectID": "index.html#research-interests",
@@ -53,14 +53,14 @@
     "href": "about.html#research",
     "title": "About Me",
     "section": "Research",
-    "text": "Research\n\nZhou Lab (March 2024 - June 2025)\nI joined the Zhou Lab in March of 2024 under the guidance of Dr. Jasmine Zhou where I developed and applied machine learning models to analyze patient cell-free methylation and mass spectrometry data, aiming to discover new clinical biomarkers and diagnostic tools for liver disease detection. This involved evaluating non-invasive diagnostic methods on 200 Hepatitis B (HBV) patients, utilizing regression and classification models to analyze patient methylation data. Additionally, I explored predictive models for clinical parameters that are essential for liver disease diagnosis and detection.\n\n\nGuo Lab (August 2022 - March 2024)\nI joined the Guo Lab in August 2022 and initiated a secondary analysis on the biomarker and imaging data of over 5000 patients in the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database under the guidance of Dr. Zhefeng Guo.\nIn parallel with my computational project, I also conducted wet-lab experiments to investigate the relationship of cerebral spinal fluid on Amyloid Beta protein aggregation. Additionally, I led a sequencing team studying mutational effects on protein aggregation with deep mutagenesis & sequencing.\n Laboratory Skills Acquired \n\n\nLiquid Chromatography\n\n\nElectron Paramagnetic Resonance (EPR)\n\n\nChemical and Electro Competent Cell Transformation\n\n\nDNA and Protein Electrophoresis\n\n\nPCR\n\n\nDeep Mutagenesis\n\n\nOxford Nanopore Sequencing\n\n\nProtein Purification\n\n\nMass Spectrometry"
+    "text": "Research\n\nZhou Lab (March 2024 - June 2025)\nI joined the Zhou Lab in March of 2024 under the guidance of Dr. Jasmine Zhou where I developed and applied machine learning models to analyze patient cell-free methylation and mass spectrometry data, aiming to discover new clinical biomarkers and diagnostic tools for liver disease detection. This involved evaluating non-invasive diagnostic methods on 200 Hepatitis B (HBV) patients, utilizing regression and classification models to analyze patient methylation data. Additionally, I explored predictive models for clinical parameters that are essential for liver disease diagnosis and detection.\n\n\nGuo Lab (August 2022 - March 2024)\nI joined the Guo Lab in August 2022 and initiated a secondary analysis on the biomarker and imaging data of over 5000 patients in the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database under the guidance of Dr. Zhefeng Guo.\nIn parallel with my computational project, I also conducted wet-lab experiments to investigate the relationship of cerebral spinal fluid on Amyloid Beta protein aggregation. Additionally, I led a sequencing team studying mutational effects on protein aggregation with deep mutagenesis & sequencing.\n Laboratory Skills Acquired \n\n\nLiquid Chromatography\n\n\nElectron Paramagnetic Resonance (EPR)\n\n\nChemical and Electro Competent Cell Transformation\n\n\nDNA and Protein Electrophoresis\n\n\nPCR\n\n\nDeep Mutagenesis\n\n\nOxford Nanopore Sequencing\n\n\nProtein Purification\n\n\nMass Spectrometry"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About Me",
     "section": "",
-    "text": "B.S. Computational and Systems Biology (September 2021 - June 2025)"
+    "text": "Computational and Systems Biology (September 2021 - June 2025)"
   },
   {
     "objectID": "personal_projects.html",
