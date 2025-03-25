@@ -32,3 +32,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: _site # This is the default output directory for Quarto websites
           keep_files: true
+- source: project
+  netlify:
+    - id: a268eded-bef0-40fc-a9c9-51573d64bfc8
+      url: 'https://caitlintang.netlify.app/'
