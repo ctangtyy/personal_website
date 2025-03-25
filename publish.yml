@@ -34,5 +34,5 @@ jobs:
           keep_files: true
 - source: project
   netlify:
-    - id: 24519175-2a71-48cd-9b4a-1a948457ece8
-      url: 'https://richardxu.netlify.app/'
+    - id: a268eded-bef0-40fc-a9c9-51573d64bfc8
+      url: 'https://caitlintang.netlify.app/'
