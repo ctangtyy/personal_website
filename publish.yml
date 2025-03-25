@@ -1,0 +1,34 @@
+name: Publish Quarto Website
+
+on:
+  push:
+    branches:
+      - main # Trigger deployment on push to the main branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the code from the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Step 2: Set up Quarto
+      - name: Install Quarto
+        run: |
+          curl -sSL https://quarto.org/download/latest/quarto-linux.zip -o quarto.zip
+          unzip quarto.zip
+          sudo mv quarto /usr/local/bin/
+
+      # Step 3: Render the Quarto website
+      - name: Render Quarto website
+        run: quarto render
+
+      # Step 4: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _site # This is the default output directory for Quarto websites
+          keep_files: true
