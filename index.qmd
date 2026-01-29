@@ -6,7 +6,7 @@ format: html
 <h1 align="center">Caitlin Tang</h1>
 
 
-<div style="background-color:rgb(236, 196, 255); padding: 25px; border-radius: 15px; 
+<div style="background-color:rgb(114, 39, 149); padding: 25px; border-radius: 15px; 
             display: flex; align-items: center; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); color: white;">
   <!-- Image Section -->
   <img src="files/myphoto2.jpg" alt="My Photo" style="width: 200px; height: 200px; border-radius: 50%; margin-right: 20px;" />
@@ -21,8 +21,7 @@ format: html
     Graduate of the Computational and Systems Biology Major (B.Sc.)
     at UCLA, concentrating specifically in Biological Data Sciences. 
     I have a passion for harnessing computational methods to solve 
-    complex biological problems -- specifically for early-disease 
-    detection and biomarker discovery.
+    complex biological problems -- specifically for early-disease detection and biomarker discovery.
 
     Although an unconventional path, I am now on my journey to pursue a career in
     dentistry. With a strong foundation in biology, data science, and clinical research,
@@ -69,7 +68,7 @@ format: html
 
 [Research Experience](projects.qmd)
 
-<footer style="background-color:rgb(236, 196, 255); color: white; text-align: center; padding: 20px 0; margin-top: 40px;">
+<footer style="background-color:rgb(114, 39, 149); color: white; text-align: center; padding: 20px 0; margin-top: 40px;">
     <p>&copy; 2026 Caitlin Tang. All rights reserved.</p>
     </div>
   </footer>
