@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "personal_projects.html",
+    "href": "personal_projects.html",
+    "title": "Personal & Creative Projects",
     "section": "",
-    "text": "B.S. Computational and Systems Biology (September 2021 - June 2025)"
+    "text": "TO BE UPDATED ## Creative Projects"
+  },
+  {
+    "objectID": "personal_projects.html#personal-projects",
+    "href": "personal_projects.html#personal-projects",
+    "title": "Personal & Creative Projects",
+    "section": "",
+    "text": "TO BE UPDATED ## Creative Projects"
   },
   {
     "objectID": "index.html",
@@ -21,15 +28,15 @@
     "text": "Research Interests\n\n\nEarly Disease Detection and Diagnosis\n\n\nPrecision Medicine\n\n\nMachine learning in Medical Research\n\n\n\nResearch Labs\n\nZhou Lab (2024-2025)\nGuo Lab (2022-2024)\n\nResearch Experience\n\n\n© 2025 Caitlin Tang. All rights reserved."
   },
   {
-    "objectID": "index.html#recent-projects",
-    "href": "index.html#recent-projects",
-    "title": "\nCaitlin Tang\n",
-    "section": "Recent Projects",
-    "text": "Recent Projects\nProjects"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Manuscript: A Highly Cost-Effective Cell-Free DNA Methylome Test for the Simultaneous Detection of Multiple Diseases. Zeng W, Liu CC, Li S,…, …, Tang C, …., Li W, Zhou XJ.\n(To be submitted in early 2025)\n\n\nWrote and utilized ML models to process patient cell-free methylation data and mass spectrometry data to explore new clinical biomarkers and diagnostic tools for liver disease detection\n\n\nEvaluated non-invasive diagnostic methods on 200 Hepatitis B (HBV) patients using regression and classification models on patient methylation data\n\n\nExplored predictive models for clinical parameters utilized in liver disease diagnosis and detection\n\n\nInitiating and fostering collaboration with other labs overseeing mass spectrometry data for proteomics analysis and biomarker discovery\n\n\n\n\n\n\n\nBuilt a ML model to create a personalized diagnosis for Alzheimer’s Disease based on biomarkers\n\n\nInitiated a secondary analysis on the biomarker and imaging data of over 5000 patients in the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database\n\n\nInvestigated the relationship of cerebral spinal fluid on Amyloid Beta protein aggregation\n\n\nLed a sequencing team studying mutational effects on protein aggregation with deep mutagenesis & sequencing"
+  },
+  {
+    "objectID": "projects.html#research",
+    "href": "projects.html#research",
     "title": "Projects",
     "section": "",
     "text": "Manuscript: A Highly Cost-Effective Cell-Free DNA Methylome Test for the Simultaneous Detection of Multiple Diseases. Zeng W, Liu CC, Li S,…, …, Tang C, …., Li W, Zhou XJ.\n(To be submitted in early 2025)\n\n\nWrote and utilized ML models to process patient cell-free methylation data and mass spectrometry data to explore new clinical biomarkers and diagnostic tools for liver disease detection\n\n\nEvaluated non-invasive diagnostic methods on 200 Hepatitis B (HBV) patients using regression and classification models on patient methylation data\n\n\nExplored predictive models for clinical parameters utilized in liver disease diagnosis and detection\n\n\nInitiating and fostering collaboration with other labs overseeing mass spectrometry data for proteomics analysis and biomarker discovery\n\n\n\n\n\n\n\nBuilt a ML model to create a personalized diagnosis for Alzheimer’s Disease based on biomarkers\n\n\nInitiated a secondary analysis on the biomarker and imaging data of over 5000 patients in the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database\n\n\nInvestigated the relationship of cerebral spinal fluid on Amyloid Beta protein aggregation\n\n\nLed a sequencing team studying mutational effects on protein aggregation with deep mutagenesis & sequencing"
@@ -42,18 +49,11 @@
     "text": "Academic\n\nECE C147/C247 Final Project\nFor my final project in ECE C147/247 (Winter 2025) with Professor Jonathan Kao, I worked on implementing a machine learning model for predicting QWERTY typing patterns using surface electromyography (sEMG) signals. The project builds upon the emg2qwerty framework developed by Meta, which provides a large dataset of sEMG recordings while typing on a QWERTY keyboard. Working from a baseline model we explored various implementations including CNN+GRU and CNN+BiLSTM Hybrid models alongside various preprocessing techniques and transformers.\nRead full project document here\n\n\nCOMAP Competition\nCOMAP, the Consortium for Mathematics and Its Applications, is an award-winning non-profit organization dedicated to enhancing mathematics education, particularly through the promotion of mathematical modeling. This year, my team and I devised a model for a sustainable tourism industry in Juneau, Alaska by balancing visitor numbers, revenue, and tourism stabilization measures using an agent-node representation with weighted edges. Read full project document here\n\n\n© 2025 Caitlin Tang. All rights reserved."
   },
   {
-    "objectID": "projects.html#research",
-    "href": "projects.html#research",
-    "title": "Projects",
-    "section": "",
-    "text": "Manuscript: A Highly Cost-Effective Cell-Free DNA Methylome Test for the Simultaneous Detection of Multiple Diseases. Zeng W, Liu CC, Li S,…, …, Tang C, …., Li W, Zhou XJ.\n(To be submitted in early 2025)\n\n\nWrote and utilized ML models to process patient cell-free methylation data and mass spectrometry data to explore new clinical biomarkers and diagnostic tools for liver disease detection\n\n\nEvaluated non-invasive diagnostic methods on 200 Hepatitis B (HBV) patients using regression and classification models on patient methylation data\n\n\nExplored predictive models for clinical parameters utilized in liver disease diagnosis and detection\n\n\nInitiating and fostering collaboration with other labs overseeing mass spectrometry data for proteomics analysis and biomarker discovery\n\n\n\n\n\n\n\nBuilt a ML model to create a personalized diagnosis for Alzheimer’s Disease based on biomarkers\n\n\nInitiated a secondary analysis on the biomarker and imaging data of over 5000 patients in the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database\n\n\nInvestigated the relationship of cerebral spinal fluid on Amyloid Beta protein aggregation\n\n\nLed a sequencing team studying mutational effects on protein aggregation with deep mutagenesis & sequencing"
-  },
-  {
-    "objectID": "about.html#research",
-    "href": "about.html#research",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "About Me",
-    "section": "Research",
-    "text": "Research\n\nZhou Lab (March 2024 - June 2025)\nI joined the Zhou Lab in March of 2024 under the guidance of Dr. Jasmine Zhou where I developed and applied machine learning models to analyze patient cell-free methylation and mass spectrometry data, aiming to discover new clinical biomarkers and diagnostic tools for liver disease detection. This involved evaluating non-invasive diagnostic methods on 200 Hepatitis B (HBV) patients, utilizing regression and classification models to analyze patient methylation data. Additionally, I explored predictive models for clinical parameters that are essential for liver disease diagnosis and detection.\n\n\nGuo Lab (August 2022 - March 2024)\nI joined the Guo Lab in August 2022 and initiated a secondary analysis on the biomarker and imaging data of over 5000 patients in the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database under the guidance of Dr. Zhefeng Guo.\nIn parallel with my computational project, I also conducted wet-lab experiments to investigate the relationship of cerebral spinal fluid on Amyloid Beta protein aggregation. Additionally, I led a sequencing team studying mutational effects on protein aggregation with deep mutagenesis & sequencing.\n Laboratory Skills Acquired \n\n\nLiquid Chromatography\n\n\nElectron Paramagnetic Resonance (EPR)\n\n\nChemical and Electro Competent Cell Transformation\n\n\nDNA and Protein Electrophoresis\n\n\nPCR\n\n\nDeep Mutagenesis\n\n\nOxford Nanopore Sequencing\n\n\nProtein Purification\n\n\nMass Spectrometry"
+    "section": "",
+    "text": "B.S. Computational and Systems Biology (September 2021 - June 2025)"
   },
   {
     "objectID": "about.html#education",
@@ -63,18 +63,11 @@
     "text": "B.S. Computational and Systems Biology (September 2021 - June 2025)"
   },
   {
-    "objectID": "personal_projects.html",
-    "href": "personal_projects.html",
-    "title": "Personal & Creative Projects",
-    "section": "",
-    "text": "TO BE UPDATED ## Creative Projects"
-  },
-  {
-    "objectID": "personal_projects.html#personal-projects",
-    "href": "personal_projects.html#personal-projects",
-    "title": "Personal & Creative Projects",
-    "section": "",
-    "text": "TO BE UPDATED ## Creative Projects"
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "About Me",
+    "section": "Research",
+    "text": "Research\n\nZhou Lab (March 2024 - June 2025)\nI joined the Zhou Lab in March of 2024 under the guidance of Dr. Jasmine Zhou where I developed and applied machine learning models to analyze patient cell-free methylation and mass spectrometry data, aiming to discover new clinical biomarkers and diagnostic tools for liver disease detection. This involved evaluating non-invasive diagnostic methods on 200 Hepatitis B (HBV) patients, utilizing regression and classification models to analyze patient methylation data. Additionally, I explored predictive models for clinical parameters that are essential for liver disease diagnosis and detection.\n\n\nGuo Lab (August 2022 - March 2024)\nI joined the Guo Lab in August 2022 and initiated a secondary analysis on the biomarker and imaging data of over 5000 patients in the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database under the guidance of Dr. Zhefeng Guo.\nIn parallel with my computational project, I also conducted wet-lab experiments to investigate the relationship of cerebral spinal fluid on Amyloid Beta protein aggregation. Additionally, I led a sequencing team studying mutational effects on protein aggregation with deep mutagenesis & sequencing.\n Laboratory Skills Acquired \n\n\nLiquid Chromatography\n\n\nElectron Paramagnetic Resonance (EPR)\n\n\nChemical and Electro Competent Cell Transformation\n\n\nDNA and Protein Electrophoresis\n\n\nPCR\n\n\nDeep Mutagenesis\n\n\nOxford Nanopore Sequencing\n\n\nProtein Purification\n\n\nMass Spectrometry"
   },
   {
     "objectID": "about.html#teaching",
